@@ -1,3 +1,4 @@
 # MIMICIV_test01
-Thank for MIT Laboratory for Computational Physiology (https://github.com/MIT-LCP)
-/n This script sync provides for academic discussion.
+Thank you for MIT Laboratory for Computational Physiology (https://github.com/MIT-LCP).
+
+The scripts copy provides for academic discussion.
